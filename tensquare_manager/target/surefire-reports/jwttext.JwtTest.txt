@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: jwttext.JwtTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.439 s <<< FAILURE! - in jwttext.JwtTest
+test(jwttext.JwtTest)  Time elapsed: 3.373 s  <<< ERROR!
+io.jsonwebtoken.ExpiredJwtException: JWT expired at 2019-03-11T17:14:22+0800. Current time: 2019-03-13T15:32:43+0800
+	at jwttext.JwtTest.test(JwtTest.java:15)
+

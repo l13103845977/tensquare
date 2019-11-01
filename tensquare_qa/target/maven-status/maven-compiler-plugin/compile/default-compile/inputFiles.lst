@@ -1,0 +1,14 @@
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\config\JwtInterceptorConfig.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\dao\ProblemDao.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\controller\ReplyController.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\pojo\Problem.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\pojo\Reply.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\controller\ProblemController.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\QaApplication.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\dao\ReplyDao.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\controller\BaseExceptionHandler.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\client\BaseClient.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\service\ReplyService.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\Interceptor\JwtInterceptor.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\service\ProblemService.java
+D:\IntelliJ IDEA 2018.3.2\IdeaProjects\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\impl\BaseClientImpl.java

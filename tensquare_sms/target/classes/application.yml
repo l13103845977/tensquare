@@ -1,0 +1,7 @@
+
+
+spring:
+  rabbitmq:
+    host: 101.132.173.197
+server:
+  port: 9009

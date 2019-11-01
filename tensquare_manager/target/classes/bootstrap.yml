@@ -1,0 +1,7 @@
+#spring:
+##  cloud:
+##    config:
+##      name: manager #码云上姓名A-B a
+##      profile: lsy #码云上姓名A-B B
+##      label: master
+##      uri: http://127.0.0.1:12000

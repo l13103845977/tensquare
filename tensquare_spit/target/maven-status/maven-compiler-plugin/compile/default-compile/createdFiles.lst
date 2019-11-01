@@ -1,0 +1,5 @@
+com\tensquare\spit\comtroller\SpitController.class
+com\tensquare\spit\pojo\Spit.class
+com\tensquare\spit\dao\SpitDao.class
+com\tensquare\spit\service\SpitService.class
+com\tensquare\spit\SpitApplication.class
