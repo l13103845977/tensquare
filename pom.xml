@@ -24,6 +24,7 @@
         <module>tensquare_web</module>
         <module>tensquare_config</module>
         <module>tensqaure_base</module>
+        <module>tensquare_springyuanma</module>
     </modules>
     <packaging>pom</packaging>
 
